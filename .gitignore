@@ -216,3 +216,37 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Restricted CoreLogic data
+CO_all_mls_*.csv
+
+# Large and derived research data
+*.rds
+combined_distance_to_fire.csv
+daily_smoke_imputed_with_lagsleads.csv
+colorado_env_controls_2018_2022.csv
+
+# Local data directories
+data/
+raw_data/
+processed_data/
+
+# Spatial data
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+
+# Excel source data
+*.xlsx
+*.xls
+
+# Generated outputs
+outputs/
+figures/
+tables/
+
+# Local notebooks and temporary files
+.ipynb_checkpoints/
+.DS_Store
