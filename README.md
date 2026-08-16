@@ -114,13 +114,13 @@ The Python code used to construct the smoke-exposure measures, prepare the analy
 
 If you use this code, please cite the associated article:
 
-> Wei, S., Chen, Y., Zhou, S., et al. *Housing Prices Decline with Wildfire Smoke Exposure across Space and Time in Colorado*. Manuscript under review.
+> Wei, S., Chen, Y., Zhou, S., Li, X., Gong, W., Halket, J., Fei, C., Xu, Y., & Ye, X. *Housing Prices Decline with Wildfire Smoke Exposure across Space and Time in Colorado*. Manuscript under review in *Communications Sustainability*.
 
 Update this citation with the final journal, year, DOI, and repository release information after publication.
 
 ## License
 
-The authors intend to release the original source code under the MIT License. A `LICENSE` file should be added before the repository is made public or submitted as the final archived code release. The MIT License will apply only to the source code authored for this study. It will not grant any right to access, reproduce, redistribute, or reuse CoreLogic transaction records or other third-party datasets, which remain subject to their original licences, data-use agreements, and access restrictions.
+The source code in this repository is released under the MIT License. This licence applies only to the original source code authored for this study. It does not grant any right to access, reproduce, redistribute, or reuse CoreLogic transaction records or other third-party datasets. Those materials remain subject to their original licences, data-use agreements, and access restrictions.
 
 ## Contact
 
